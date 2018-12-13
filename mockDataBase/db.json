@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "this is a test of the world. ",
+      "id": 1
+    },
+    {
+      "title": "My Stream ",
+      "description": "some stream to edit right here react",
+      "id": 2
+    },
+    {
+      "title": "Linux Programming ",
+      "description": "ME programming so Linnnux boy ",
+      "userId": "111950969154832597989",
+      "id": 3
+    }
+  ]
+}
